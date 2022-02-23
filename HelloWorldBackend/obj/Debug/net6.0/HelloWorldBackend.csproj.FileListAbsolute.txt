@@ -10,7 +10,6 @@ C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\bin\Debug\
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\obj\Debug\net6.0\HelloWorldBackend.csproj.AssemblyReference.cache
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\obj\Debug\net6.0\HelloWorldBackend.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\obj\Debug\net6.0\HelloWorldBackend.AssemblyInfoInputs.cache
 C:\Users\dima.karpov\source\repos\HelloWorldBackend\HelloWorldBackend\obj\Debug\net6.0\HelloWorldBackend.AssemblyInfo.cs
