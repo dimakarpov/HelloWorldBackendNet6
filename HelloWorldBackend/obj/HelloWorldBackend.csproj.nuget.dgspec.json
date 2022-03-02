@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackend\\HelloWorldBackend\\HelloWorldBackend.csproj": {}
+    "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackendNet6\\HelloWorldBackend\\HelloWorldBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackend\\HelloWorldBackend\\HelloWorldBackend.csproj": {
+    "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackendNet6\\HelloWorldBackend\\HelloWorldBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackend\\HelloWorldBackend\\HelloWorldBackend.csproj",
+        "projectUniqueName": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackendNet6\\HelloWorldBackend\\HelloWorldBackend.csproj",
         "projectName": "HelloWorldBackend",
-        "projectPath": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackend\\HelloWorldBackend\\HelloWorldBackend.csproj",
+        "projectPath": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackendNet6\\HelloWorldBackend\\HelloWorldBackend.csproj",
         "packagesPath": "C:\\Users\\dima.karpov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackend\\HelloWorldBackend\\obj\\",
+        "outputPath": "C:\\Users\\dima.karpov\\source\\repos\\HelloWorldBackendNet6\\HelloWorldBackend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\dima.karpov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
