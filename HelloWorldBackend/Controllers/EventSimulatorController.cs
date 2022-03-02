@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using HelloWorldBackend.Models.EventSimulator;
+using Microsoft.AspNetCore.Mvc;
 
 namespace HelloWorldBackend.Controllers
 {
@@ -11,9 +12,11 @@ namespace HelloWorldBackend.Controllers
             return View();
         }
 
-        public IEnumerable<> GetEventDates([FromQuery] DateTime lastPleadingDate, [FromQuery] DateTime preTrialDate)
+        public IEnumerable<SimulatedEvent> GetEventDates([FromQuery] DateTime lastPleadingDate, [FromQuery] DateTime preTrialDate)
         {
-            return View();
+            var simulatedEventsResponse = new List<SimulatedEvent>();
+
+            return simulatedEventsResponse;
         }
     }
 }
