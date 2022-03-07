@@ -12,7 +12,20 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IEventSimulatorService, EventSimulatorService>();
 
+var allowedOrigins = builder.Configuration["Settings:AllowedOrigins"].Split(',');
+var myAllowSpecificOrigins = "_myAllowSpecificOrigins";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: myAllowSpecificOrigins,
+                      builder =>
+                      {
+                          builder.WithOrigins(allowedOrigins);
+                      });
+});
+
 var app = builder.Build();
+
+app.UseCors(myAllowSpecificOrigins);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
